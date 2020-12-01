@@ -16,7 +16,7 @@ try:
     while True:
         pyautogui.moveTo(959.5, 539.5)
         pyautogui.click(button='left')
-        pyautogui.write('NICK BIG GAY ')
+        pyautogui.write('NICK BE WACK')
 
 except KeyboardInterrupt:
     print('s')
